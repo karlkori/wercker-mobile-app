@@ -2,7 +2,10 @@
 
 ## TODO:
 
-[] List of projects (with last build status)
-[] List of builds
-[] List of deploys
-[] Auto refresh statuses
+[ ] List of projects (with last build status)
+
+[ ] List of builds
+
+[ ] List of deploys
+
+[ ] Auto refresh statuses
